@@ -1,7 +1,6 @@
 {
-  "name": "projekt",
+  "name": "projekt1",
   "version": "1.0.0",
-  "description": "",
   "main": "2server.js",
   "dependencies": {
     "express": "^4.17.1",
@@ -12,5 +11,15 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/justirap/projekt1.git"
+  },
+  "bugs": {
+    "url": "https://github.com/justirap/projekt1/issues"
+  },
+  "homepage": "https://github.com/justirap/projekt1#readme",
+  "description": ""
 }
+
